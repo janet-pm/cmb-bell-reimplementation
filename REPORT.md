@@ -53,7 +53,7 @@ single E(alpha) curve computed from those 100M pairs; see the Verdict
 note). ea=10 uK fallback (HM files
 unavailable; mixed/unmixed agree to 0.0001, so the choice is immaterial).
 
-| config | method | max|C| (3M tetrads) | paper tetrad | frac >= 2 |
+| config | method | max \|C\| (3M tetrads) | paper tetrad | frac >= 2 |
 |---|---|---|---|---|
 | neighbour, near-full-sky | unmixed | 2.0270 | 2.0013 | 0.00029 |
 | neighbour, near-full-sky | mixed | 2.0270 | 2.0012 | 0.00028 |
